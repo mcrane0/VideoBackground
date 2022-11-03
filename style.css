@@ -98,3 +98,21 @@ video {
 #about-link:hover {
     transform:scale(0.9); /* changes the size of an element */
 }
+
+#about {
+    padding:50px;
+    text-align: center;
+}
+#about p {
+    font-size:20px;
+    max-width:500px;
+    margin:auto;
+}
+#about h3 {
+    margin:40px;
+    color:rgb(20, 30, 70);
+}
+#about a {
+    font-size: 28px;
+    margin:0 20px;
+}
